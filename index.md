@@ -8,7 +8,7 @@
 </head>
 <body>
     <div> 
-            Mr个人博客所有
+            Mr个人简历
     </div>
 </body>
 </html>
