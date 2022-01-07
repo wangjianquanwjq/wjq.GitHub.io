@@ -14,6 +14,7 @@
 <body>
     <div class='jl'> 
         <h4>Mr个人简历</h4>
+        <h4>Mr个人简历</h4>
             
     </div>
 </body>
