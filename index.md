@@ -7,7 +7,7 @@
     <title>Mr王个人简历</title>
    
 </head>
-<body background=http://p1.so.qhmsg.com/t01ed5a885549b6bf3b.jpg> <div>
+<body > <div>
 
     </div>
 
